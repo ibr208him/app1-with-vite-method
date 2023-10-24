@@ -1,0 +1,8 @@
+nav{
+    background-color: aquamarine !important;
+}
+
+.nav-item a{
+    color:black !important;
+    font-size: 18px;
+}
